@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaheMeekz
 - 👀 I’m interested in programming
-- 🌱 I’m full stack programer
+- 🌱 I’m full stack developer
 - 📫 How to reach me vaheemkrtchyan@gmail.com
                       linkedin.com/in/vahe-mkrtchyan-57446b205
 
