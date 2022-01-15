@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VaheMeekz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m full stack programer
 - 📫 How to reach me vaheemkrtchyan@gmail.com
                       linkedin.com/in/vahe-mkrtchyan-57446b205
 
