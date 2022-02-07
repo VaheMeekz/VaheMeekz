@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VaheMeekz
+- YOLO 
 - 👀 I’m interested in programming
 - 🌱 I’m full stack developer
 - 📫 How to reach me vaheemkrtchyan@gmail.com
